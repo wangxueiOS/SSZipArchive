@@ -52,7 +52,7 @@ extern "C" {
 #endif
 
 #ifndef  _ZLIBIOAPI_H
-#include "ioapi.h"
+#include "ll_ioapi.h"
 #endif
 
 #ifdef HAVE_BZIP2

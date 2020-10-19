@@ -15,7 +15,7 @@ extern "C" {
 #include "zlib.h"
 #endif
 
-#include "unzip.h"
+#include "ll_unzip.h"
 
 /* Repair a ZIP file (missing central directory)
    file: file to recover
